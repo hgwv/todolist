@@ -9,6 +9,7 @@ A simple todo list with HTML, CSS, and Javascript. HTML for web content, CSS for
 - JavaScript
 
 ### 🦄 Features
+---
 Here's what you can do with the todo list app:
 - Create todos and cross them off
 - Can delete todos
